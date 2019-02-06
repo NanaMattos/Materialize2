@@ -1,0 +1,7 @@
+body {
+  background-image: url('img/background/record-player.jpg');
+  height: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
